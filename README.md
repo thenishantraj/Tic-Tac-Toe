@@ -2,6 +2,14 @@
 
 A simple and responsive Tic-Tac-Toe game built with HTML, CSS, and JavaScript. This game allows two players to take turns and play on a 3x3 grid, with the game automatically detecting the winner or a tie.
 
+## Screenshots
+
+![Screenshot 1](Screenshot%202025-01-31%20130421.png)
+
+![Screenshot 2](Screenshot%202025-01-31%20130433.png)
+
+![Screenshot 3](Screenshot%202025-01-31%20130650.png)
+
 ## Features
 - **Two-Player Mode**: Play as "X" and "O" in turns.
 - **Responsive Design**: The game adjusts to different screen sizes.
@@ -18,4 +26,3 @@ A simple and responsive Tic-Tac-Toe game built with HTML, CSS, and JavaScript. T
 1. Clone this repository:
    ```bash
    git clone https://github.com/thenishantraj/Tic-Tac-Toe.git
-
