@@ -8,10 +8,24 @@ You can play the game by clicking on the link below:
 
 ### Screenshots:
 Here are some screenshots of the Tic-Tac-Toe game:
+## Screenshots
 
-1. ![Screenshot 1](./assets/Screenshot%202025-01-31%20130421.png)
-2. ![Screenshot 2](./assets/Screenshot%202025-01-31%20130433.png)
-3. ![Screenshot 3](./assets/Screenshot%202025-01-31%20130650.png)
+<div style="display: flex; justify-content: space-around; gap: 10px;">
+
+  <div style="flex: 1; min-width: 0; text-align: center;">
+    <img src="assets/Screenshot%202025-01-31%20130421.png" alt="Screenshot 1" style="width: 100%; height: auto; object-fit: cover;">
+  </div>
+  
+  <div style="flex: 1; min-width: 0; text-align: center;">
+    <img src="assets/Screenshot%202025-01-31%20130433.png" alt="Screenshot 2" style="width: 100%; height: auto; object-fit: cover;">
+  </div>
+  
+  <div style="flex: 1; min-width: 0; text-align: center;">
+    <img src="assets/Screenshot%202025-01-31%20130650.png" alt="Screenshot 3" style="width: 100%; height: auto; object-fit: cover;">
+  </div>
+
+</div>
+
 
 ### How to Run Locally:
 1. Clone this repository:
@@ -28,6 +42,9 @@ Here are some screenshots of the Tic-Tac-Toe game:
 - **HTML**: For structuring the game layout.
 - **CSS**: For styling the game and adding effects.
 - **JavaScript**: For handling the game logic, player turns, and win conditions.
+
+![MIT License](https://img.shields.io/badge/License-MIT-green)
+ 
 
 ## Installation
 
