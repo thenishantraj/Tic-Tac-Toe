@@ -8,23 +8,22 @@ You can play the game by clicking on the link below:
 
 ### Screenshots:
 Here are some screenshots of the Tic-Tac-Toe game:
-## Screenshots
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
 
-<div style="display: flex; justify-content: space-around; gap: 10px;">
-
-  <div style="flex: 1; min-width: 0; text-align: center;">
-    <img src="assets/Screenshot%202025-01-31%20130421.png" alt="Screenshot 1" style="width: 100%; height: auto; object-fit: cover;">
+  <div style="width: 300px; text-align: center;">
+    <img src="Screenshot%202025-01-31%20130421.png" alt="Screenshot 1" style="width: 100%; height: auto; object-fit: cover;">
   </div>
   
-  <div style="flex: 1; min-width: 0; text-align: center;">
-    <img src="assets/Screenshot%202025-01-31%20130433.png" alt="Screenshot 2" style="width: 100%; height: auto; object-fit: cover;">
+  <div style="width: 300px; text-align: center;">
+    <img src="Screenshot%202025-01-31%20130433.png" alt="Screenshot 2" style="width: 100%; height: auto; object-fit: cover;">
   </div>
   
-  <div style="flex: 1; min-width: 0; text-align: center;">
-    <img src="assets/Screenshot%202025-01-31%20130650.png" alt="Screenshot 3" style="width: 100%; height: auto; object-fit: cover;">
+  <div style="width: 300px; text-align: center;">
+    <img src="Screenshot%202025-01-31%20130650.png" alt="Screenshot 3" style="width: 100%; height: auto; object-fit: cover;">
   </div>
 
 </div>
+
 
 
 ### How to Run Locally:
