@@ -19,4 +19,3 @@ A simple and responsive Tic-Tac-Toe game built with HTML, CSS, and JavaScript. T
    ```bash
    git clone https://github.com/thenishantraj/Tic-Tac-Toe.git
 
-cd Tic-Tac-Toe
