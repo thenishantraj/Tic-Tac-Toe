@@ -1,14 +1,22 @@
 # Tic-Tac-Toe Game
 
-A simple and responsive Tic-Tac-Toe game built with HTML, CSS, and JavaScript. This game allows two players to take turns and play on a 3x3 grid, with the game automatically detecting the winner or a tie.
+A simple and responsive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Play a fun 2-player game with a dynamic UI and win detection system.
 
-## Screenshots
+### Play the Game:
+You can play the game by clicking on the link below:
+[Play Tic-Tac-Toe](https://visionary-banoffee-51dfe8.netlify.app/)
 
-![Screenshot 1](Screenshot%202025-01-31%20130421.png)
+### Screenshots:
+Here are some screenshots of the Tic-Tac-Toe game:
 
-![Screenshot 2](Screenshot%202025-01-31%20130433.png)
+1. ![Screenshot 1](./assets/Screenshot%202025-01-31%20130421.png)
+2. ![Screenshot 2](./assets/Screenshot%202025-01-31%20130433.png)
+3. ![Screenshot 3](./assets/Screenshot%202025-01-31%20130650.png)
 
-![Screenshot 3](Screenshot%202025-01-31%20130650.png)
+### How to Run Locally:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/thenishantraj/Tic-Tac-Toe.git
 
 ## Features
 - **Two-Player Mode**: Play as "X" and "O" in turns.
